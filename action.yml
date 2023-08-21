@@ -1,0 +1,5 @@
+name: Arnaud test changelog
+description: blablabla
+runs:
+  using: node16
+  main: src/index.js
